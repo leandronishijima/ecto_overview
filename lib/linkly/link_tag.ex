@@ -1,4 +1,4 @@
-defmodule Linkly.LinkTags do
+defmodule Linkly.LinkTag do
   use Ecto.Schema
 
   alias Linkly.{Link, Tag, User}
